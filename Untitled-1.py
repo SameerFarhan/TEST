@@ -7,4 +7,4 @@ elif name == "s":
     print("ok")
 else:
     print("Sorry")
-    #new
+    #newjhugg
